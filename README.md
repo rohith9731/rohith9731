@@ -1,16 +1,22 @@
 ## Hi there 👋
-
+I am Rohith
 <!--
 **rohith9731/rohith9731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👨‍💻 About Me
+
+
+🔭 Currently working on AI-powered medical imaging and Generative AI applications
+
+🌱 Learning LLMs, RAG pipelines, MLOps, and cloud deployment
+
+💡 Interested in Data Science, AI Engineering, Medical AI, and Analytics
+
+⚡ Skilled in Python, SQL, TensorFlow, Tableau, Streamlit, and AWS
+
+🚀 Building end-to-end AI systems from data preprocessing to deployment
+
+📫 Reach me at: rohithreddy9731@gmail.com
 -->
